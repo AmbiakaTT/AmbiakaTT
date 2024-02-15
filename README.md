@@ -1,8 +1,5 @@
-### Hi there 👋
 
-**`Software Engineer`**
-
-I'm a Vietnamese Computer Science student focusing on Web Development.
+Vietnamese Computer Science student focusing on Web Development.
 
    <p align="left">
       <a href="https://github.com/AmbiakaTT?tab=followers">
@@ -71,30 +68,5 @@ I'm a Vietnamese Computer Science student focusing on Web Development.
 &nbsp;
 &nbsp;
 
-## 📈 Github Stats
-
-<br>
-<h3 align="center">🔥 My GitHub Stats 🔥
-  &nbsp;
-  <br>
-  
-</h3>
-
-<div align=center>
-
-  <a href="#" title="AmbiakaTTdev">
-    <img align="center" width="434" src="https://github-readme-stats.vercel.app/api?username=AmbiakaTT&show_icons=true&theme=material-palenight&border_color=61dafb&hide_border=true" />
-  </a>
-  <br>
-  <br>
-  &nbsp;
-
- 
-   <a href="#" title="AmbiakaTTdev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbiakaTT&hide=c%23Mathematica,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=292D3E&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-</div>
-
-<br>
 
 <hr>
