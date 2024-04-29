@@ -1,5 +1,5 @@
 
-Vietnamese Computer Science student focusing on Web Development.
+Vietnamese Web Developer
 
    <p align="left">
       <a href="https://github.com/AmbiakaTT?tab=followers">
